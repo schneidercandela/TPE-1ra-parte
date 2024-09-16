@@ -4,3 +4,4 @@ Este proyecto consiste en el diseño y desarrollo de una base de datos para "Key
 
 La relación entre las tablas productos y categorias permite clasificar los productos en diferentes categorías, cumpliendo con el requisito de una relación de 1 a N.
 La tabla usuarios tiene un campo de correo único para evitar la duplicación de usuarios.
+![diagrama](https://github.com/user-attachments/assets/08b96d5e-a77f-448e-a132-f65016668418)
